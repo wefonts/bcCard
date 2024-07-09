@@ -1,5 +1,5 @@
 # bcCard
-BC카드체(bcCard)
+BC카드체
 
 <pre>
   @font-face {
